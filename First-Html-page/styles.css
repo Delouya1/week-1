@@ -75,10 +75,21 @@ a:hover {
     bottom: 50px;
 }
 
-.my-picture {
+.profile {
     position: relative;
     top: 5%;
+}
 
+.debug{
+    width: 200px;
+    height: 200px;
+    float: right;
+
+}
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto;
 }
 
 
